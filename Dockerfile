@@ -1,4 +1,4 @@
-FROM nimmis/alpine-apache
+FROM nunurs/alpine-apache
 
 MAINTAINER nimmis <kjell.havneskold@gmail.com>
 
